@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-	require_once 'library.php';
+	require_once 'apis/library.php';
 	$server = 'http://puis.president.ac.id/photo/';
 
 	$num = 123;
