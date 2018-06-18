@@ -2,15 +2,13 @@
 <html>
 <head>
 	<title>XMOD</title>
-	<link rel="stylesheet" type="text/css" href="sources/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="sources/bootstrap.min.css">
 </head>
 <body>
 <?php
 	require_once 'apis/library.php';
 	$server = 'http://puis.president.ac.id/photo/';
-
-	$num = 123;
-	$str_length = 4;
+	
 	$formatA = "a.jpg";
 	$formatB = "b.jpg";
 
@@ -26,7 +24,7 @@
 	?>
 		<img src="<?php echo $server.$class.$SID.$formatB?>" width="100%" class="col-md-3">
 <?php
-	endfor //For End
+	endfor; //For End
 ?>
 	</div>
 </body>
