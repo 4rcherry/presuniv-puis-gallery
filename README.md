@@ -14,7 +14,7 @@ Notifications :
 A. If you want to know about him/her student ID :
   - Please open the image in the new tab and student ID will be visible on the ulr form like as "http://puis.president.ac.id/photo/016201700019a.jpg".
   
-B. If you want to know his/her more information :
+B. If you want to know about his/her more information :
   - Please copy a student id like as "016201700019" to the site https://forlap.ristekdikti.go.id/mahasiswa and you will get it.
   
 C. More hijacking tutorial to puis.president.ac.id will be coming soon.
