@@ -11,6 +11,7 @@ Instalation :
 
 
 Notifications :
+
 A. If you want to know about him/her student ID :
   - Please open the image in the new tab and student ID will be visible on the ulr form like as "http://puis.president.ac.id/photo/016201700019a.jpg".
   
